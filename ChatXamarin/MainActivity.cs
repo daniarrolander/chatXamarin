@@ -46,7 +46,7 @@ namespace ChatXamarin
             }
             else
             {
-                Toast.MakeText(this, "Welcome" + FirebaseAuth.Instance.CurrentUser.Email, ToastLength.Short).Show();
+                Toast.MakeText(this, "Welcome " + FirebaseAuth.Instance.CurrentUser.Email, ToastLength.Short).Show();
                 DisplayChatMessage();
             }
         }
