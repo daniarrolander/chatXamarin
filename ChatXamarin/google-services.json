@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675702915805",
+    "firebase_url": "https://chatxamarin.firebaseio.com",
+    "project_id": "chatxamarin",
+    "storage_bucket": "chatxamarin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675702915805:android:195956b80d85ed5d",
+        "android_client_info": {
+          "package_name": "ChatXamarin.ChatXamarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675702915805-fdd447uk5i12ts613aptfo2haqj1b30q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ChatXamarin.ChatXamarin",
+            "certificate_hash": "5cf52f8091fc28cf990be34d217849d41bb14bc5"
+          }
+        },
+        {
+          "client_id": "675702915805-5flr3hcsgqelk3qes914rlshu8u115s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-2Zt_WG2LymRxyQOWeKB0p2bq_KDkD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675702915805-5flr3hcsgqelk3qes914rlshu8u115s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
